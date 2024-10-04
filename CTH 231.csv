@@ -1,6 +1,6 @@
 wid	txtid	inv_nr	cth_number	lnr	trans	text	text_tags	text_clean	subscr	matlect	num	sign	corr	deleted	added	ras	rasx	gap	note	link	mrp0sel	combined
 0	KUB 26.2		231	Vs. 1′			<del_in/>	[														{'lg': 'Hit'}
-1	KUB 26.2		231	Vs. 1′			"<space c=""9""/>"	*********														{'lg': 'Hit'}
+1	KUB 26.2		231	Vs. 1′			<space c=""9""/>	*********														{'lg': 'Hit'}
 2	KUB 26.2		231	Vs. 1′	~kan~	-ká	"-ká<del_fin/>n<corr c=""?""/>(-)<del_in/>"	-ká]n(-)[					"ká]n<corr c=""?""/>"								DEL	{'lg': 'Hit'}
 3	KUB 26.2		231	Vs. 2′			<del_in/>	[														{'lg': 'Hit'}
 4	KUB 26.2		231	Vs. 2′			"<space c=""9""/>"	*********														{'lg': 'Hit'}
